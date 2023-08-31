@@ -1,2 +1,2 @@
-# Notebooks
-Notebooks from data science/ML projects, courses, etc.
+# Titanic Survivors Prediction
+This is my first attempt at a Kaggle competition or a data science project in general. Among the available introductory competitions, Titanic: Machine Learning from Disaster was the one I found most exciting. The objective of this competition is to determine whether a passenger will survive the shipwreck based on their recorded profile. With this notebook I achieved an accuracy of 81.3% on the test dataset, scoring in the top 3% of the public leaderboard.
